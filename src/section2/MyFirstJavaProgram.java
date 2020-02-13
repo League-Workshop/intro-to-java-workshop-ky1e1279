@@ -8,7 +8,7 @@ public class MyFirstJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
-	Robot jim=new Robot();
+		robot
 		jim.setWindowColor(50,100,200);
 		jim.setSpeed(100);
 		jim.setSpeed(100);
